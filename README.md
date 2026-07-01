@@ -1,4 +1,4 @@
-* All contributions done on Codeberg
+* All contributions done on [Codeberg](https://codeberg.org/tstanley)
 * PGP [Public Key](https://github.com/thomas-stanley.gpg)
 * Contact me on [SimpleX Chat](https://smp17.simplex.im/a#krHELnWhwzJzDy-nz7VuvlQCYRJMrxf_y4Xc9UfxB90)
 
