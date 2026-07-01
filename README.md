@@ -1,5 +1,5 @@
 * All contributions done on Codeberg
-* PGP [Public Key](./public_key.asc)
+* PGP [Public Key](https://github.com/thomas-stanley.gpg)
 * Contact me on [SimpleX Chat](https://smp17.simplex.im/a#krHELnWhwzJzDy-nz7VuvlQCYRJMrxf_y4Xc9UfxB90)
 
 
