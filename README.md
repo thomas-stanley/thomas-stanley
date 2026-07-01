@@ -1,4 +1,8 @@
-## Hi there 👋
+## All contributions done on Codeberg.
+## PGP Fingerpint: D691758333A8E383C63BA1222578F4905ADE0609
+## Contact me on [SimpleX Chat](https://smp17.simplex.im/a#krHELnWhwzJzDy-nz7VuvlQCYRJMrxf_y4Xc9UfxB90)
+
+
 
 <!--
 **thomas-stanley/thomas-stanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
