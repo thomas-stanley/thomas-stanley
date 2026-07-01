@@ -1,6 +1,6 @@
-All contributions done on Codeberg \
-PGP Fingerpint: D691758333A8E383C63BA1222578F4905ADE0609 \
-Contact me on [SimpleX Chat](https://smp17.simplex.im/a#krHELnWhwzJzDy-nz7VuvlQCYRJMrxf_y4Xc9UfxB90)
+* All contributions done on Codeberg
+* PGP [Public Key](https://github.com/thomas-stanley.gpg)
+* Contact me on [SimpleX Chat](https://smp17.simplex.im/a#krHELnWhwzJzDy-nz7VuvlQCYRJMrxf_y4Xc9UfxB90)
 
 
 
